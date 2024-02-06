@@ -1,0 +1,444 @@
+- id: 6b229d13-22a7-44d3-a13c-fd98dda49217
+  category: beauty
+  current_stock: 2
+  description: This 15 piece vegan makeup brush set in a leather case offers a comprehensive
+    collection of brushes for flawless makeup application. The soft synthetic bristles
+    evenly pick up and distribute product. Convenient for travel and storage.
+  gender_affinity: F
+  image: 6b229d13-22a7-44d3-a13c-fd98dda49217.jpg
+  image_license: Free for Commercial Use
+  link: https://www.pikrepo.com/fmvtc/black-makeup-brush-set-in-bag
+  name: Luxury Vegan Brushes for Flawless Makeup
+  price: 99.0
+  style: grooming
+  where_visible: UI
+  promoted: true
+- id: cfe46492-c19b-4a3c-a022-540c49cc63bb
+  category: beauty
+  current_stock: 2
+  description: Accentuate your eyes with the Lovely Blue Mascara. Its rich, deep blue
+    hue dramatically intensifies your gaze for lush, full lashes. This smooth, buildable
+    formula creates stunning vibrant eyes.
+  gender_affinity: F
+  image: cfe46492-c19b-4a3c-a022-540c49cc63bb.jpg
+  image_license: CC0
+  link: https://pxhere.com/en/photo/57398
+  name: Volumizing Blue Mascara for Dramatic Eyes
+  price: 29.0
+  style: grooming
+  where_visible: UI
+  promoted: true
+- id: e0667c61-6f47-4481-a0a0-beaf734e477a
+  category: beauty
+  current_stock: 3
+  description: Make a bold statement with this richly pigmented, quick-drying nail
+    lacquer. The striking crimson shade allows you to conquer hearts and mesmerize
+    with lustrous, long-lasting color.
+  gender_affinity: F
+  image: e0667c61-6f47-4481-a0a0-beaf734e477a.jpg
+  image_license: CC0
+  link: https://www.needpix.com/photo/1711500/nail-varnish-nail-design-cosmetics-manicure-fingernails-paint-toe-nails-fashionable-beauty
+  name: Bold Crimson Conquers Hearts
+  price: 24.0
+  style: grooming
+  where_visible: UI
+  promoted: true
+- id: 8bc9e7d5-123c-46e4-a4f5-abeb79a77b3f
+  category: beauty
+  current_stock: 4
+  description: The Rose Pink Blush Brush's soft, tapered bristles effortlessly pick
+    up, blend and sculpt powder for a flawless, naturally flushed cheek with this
+    elegant, specialized beauty tool.
+  gender_affinity: F
+  image: 8bc9e7d5-123c-46e4-a4f5-abeb79a77b3f.jpg
+  image_license: Free for commercial use - just do not resell as a stock photo
+  link: https://pixabay.com/photos/rouge-brush-cosmetics-rouge-brush-2092439/
+  name: Soft Pink Blush Brush for Flawless Cheeks
+  price: 22.0
+  style: grooming
+  where_visible: UI
+- id: b6295ac1-d60b-42a6-b16b-ebb433562e18
+  category: beauty
+  current_stock: 6
+  description: Discover your perfect match with our Radiant 15-Shade Concealer Palette.
+    This luminous collection features 15 buildable, skin-loving tones to highlight
+    your natural beauty and conceal imperfections. Expertly formulated for all complexions.
+  gender_affinity: F
+  image: b6295ac1-d60b-42a6-b16b-ebb433562e18.jpg
+  image_license: Free for commercial use
+  link: https://www.pxfuel.com/en/free-photo-xidzw
+  name: Radiant Concealer for Your Perfect Match
+  price: 44.0
+  style: grooming
+  where_visible: UI
+  promoted: true
+- id: 7a60597a-5a5a-48bc-86bd-f32c818b4008
+  category: beauty
+  current_stock: 11
+  description: Turn heads with this richly pigmented, intensely creamy classic red
+    lipstick. The bold, vibrant shade delivers a glamorous, retro-inspired bombshell
+    pout in just one swipe.
+  gender_affinity: F
+  image: 7a60597a-5a5a-48bc-86bd-f32c818b4008.jpg
+  image_license: Free for commercial use - just do not resell as a stock photo
+  link: https://pixabay.com/photos/lipstick-lips-makeup-cosmetics-5559338/
+  name: Ravishing Red Retro Glam Lipstick
+  price: 24.0
+  style: grooming
+  where_visible: UI
+- id: 7d359a18-e81a-450b-beb1-db85aa699629
+  category: beauty
+  current_stock: 12
+  description: Make a bold statement with our richly pigmented, velvety matte lipstick.
+    The lightweight, buildable formula glides on effortlessly for luxurious, opaque
+    color that lasts for hours without drying. Showcase vibrant lips with this intensely
+    saturated must-have.
+  gender_affinity: F
+  image: 7d359a18-e81a-450b-beb1-db85aa699629.jpg
+  image_license: Unsplash - free for commercial use
+  link: https://unsplash.com/photos/rjB_1MT6G18
+  name: Bold Matte Lipstick for a Statement Look
+  price: 28.0
+  style: grooming
+  where_visible: UI
+- id: 89728417-5269-403d-baa3-04b59cdffd0a
+  category: beauty
+  current_stock: 4
+  description: This 4-piece brush set contains all the essentials for flawless makeup
+    application. The soft, dense bristles pick up and distribute product evenly. Achieve
+    a professional finish with the foundation, powder, contour, and shadow brushes.
+  gender_affinity: F
+  image: 89728417-5269-403d-baa3-04b59cdffd0a.jpg
+  image_license: Free for commercial use - just do not resell as a stock photo
+  link: https://pixabay.com/photos/maciag-brush-makeup-brushes-5208359/
+  name: Flawless Makeup Brushes for Every Look
+  price: 26.0
+  style: grooming
+  where_visible: UI
+  promoted: true
+- id: d16df944-ea75-43c3-b54b-6738731c081b
+  category: beauty
+  current_stock: 2
+  description: Create a radiant lip look with our Lip Brush. Precisely apply color
+    and blend seamlessly with the tapered head and soft bristles. Achieve flawless
+    definition and professional results.
+  gender_affinity: F
+  image: d16df944-ea75-43c3-b54b-6738731c081b.jpg
+  image_license: Free for commercial use
+  link: https://unsplash.com/photos/qbo7DPBvnV0
+  name: Soft Brush for Flawless Lips
+  price: 32.0
+  style: grooming
+  where_visible: UI
+- id: 82f4c1ca-b0dc-4e5a-9336-caff8bf63c05
+  category: beauty
+  current_stock: 20
+  description: Discover Precious Cargo's stylish makeup cases in vibrant colors. These
+    durable plastic containers securely store all your cosmetics, protecting your
+    eyeshadows, lipsticks and more. Organize your beauty routine in reinforced cases
+    designed for safe travel and home storage.
+  gender_affinity: F
+  image: 82f4c1ca-b0dc-4e5a-9336-caff8bf63c05.jpg
+  image_license: CC0
+  link: https://pixy.org/5203022/
+  name: Stylish Cases Keep Makeup Organized
+  price: 12.0
+  style: grooming
+  where_visible: UI
+- id: f0054758-eaca-47f8-adf4-12b78603fbc6
+  category: beauty
+  current_stock: 12
+  description: Ignite passion with our creamy, velvety Burn! Lipstick. The rich, red
+    pigment glides on smoothly for full, smudge-proof coverage in just one swipe.
+    Feel the burn and make a bold statement with this vivid red housed in a fiery
+    translucent case.
+  gender_affinity: F
+  image: f0054758-eaca-47f8-adf4-12b78603fbc6.jpg
+  image_license: Public domain
+  link: https://www.pikist.com/free-photo-xvcbj
+  name: Flaunt Fierce Fiery Red Lips
+  price: 18.0
+  style: grooming
+  where_visible: UI
+  promoted: true
+- id: 638012bd-b70e-4035-bf83-fbb777c7a6ea
+  category: beauty
+  current_stock: 13
+  description: Achieve iconic 1920s lashes with this volumizing and lengthening mascara.
+    The smudge-resistant formula and specially designed brush create bold, flirty
+    fringe for 12 hours of flapper-era glamour.
+  gender_affinity: F
+  image: 638012bd-b70e-4035-bf83-fbb777c7a6ea.png
+  image_license: Free for commercial use
+  link: https://www.pickpik.com/cosmetics-make-up-makeup-beauty-color-eyes-138539
+  name: Flapper Fringe Volumizing Mascara
+  price: 18.0
+  style: grooming
+  where_visible: UI
+- id: 9d1be460-7c75-4627-990d-1f1a6731dc3e
+  category: electronics
+  current_stock: 10
+  description: Capture steady, shake-free video and photos from any angle with the
+    Flexible Camera Tripod. This lightweight, adjustable tripod securely mounts your
+    camera or phone while its flexible legs and 3-way pan head allow smooth panning
+    shots and framing control. The perfect gadget for aspiring videographers on the
+    go.
+  gender_affinity: F
+  image: 9d1be460-7c75-4627-990d-1f1a6731dc3e.jpg
+  image_license: CC0
+  link: https://www.needpix.com/photo/908201/gorillapod-with-camera-free-pictures-free-photos-free-images-royalty-free
+  name: Flexible Tripod Captures Steady Shots
+  price: 49.0
+  style: camera
+  where_visible: UI
+  promoted: true
+- id: 8759b4e2-51cc-456f-a224-01a34d04db2b
+  category: beauty
+  current_stock: 12
+  description: The sleek, portable Pocket Powder Case lets you discreetly touch up
+    your makeup anytime, anywhere. Its slim design fits easily into your purse or
+    bag, with a handy mirror and compartment for storing powder, blush, and other
+    essentials on-the-go.
+  gender_affinity: F
+  image: 8759b4e2-51cc-456f-a224-01a34d04db2b.jpg
+  image_license: Public domain
+  link: https://www.pikist.com/free-photo-ixyyz
+  name: Discrete On-the-Go Makeup Touch-Ups
+  price: 29.0
+  style: grooming
+  where_visible: UI
+- id: c6d7f153-e5a7-4168-a2f0-7471520e3f00
+  category: homedecor
+  current_stock: 11
+  description: Illuminate your beauty routine with this sleek freestanding makeup
+    mirror. Its distortion-free glass, adjustable height, and built-in LED ring light
+    ensure you'll apply your makeup with optimal lighting and precision.
+  gender_affinity: F
+  image: c6d7f153-e5a7-4168-a2f0-7471520e3f00.jpg
+  image_license: CC0
+  link: https://www.needpix.com/photo/download/1336308/mirror-small-reflection-decoration-modern-design-frame-round-shop
+  name: Illuminate Your Beauty
+  price: 99.0
+  style: bedroom
+  where_visible: UI
+- id: 28762499-dd36-4b23-96d3-db3eeeaed548
+  category: furniture
+  current_stock: 10
+  description: Expertly crafted with plush cushions, this soft grey sofa invites relaxation
+    into your home. Its neutral tone elegantly complements any decor while quality
+    materials ensure enduring comfort and sophistication.
+  image: 28762499-dd36-4b23-96d3-db3eeeaed548.jpg
+  image_license: Free for commercial use - just do not resell as a stock photo
+  link: https://pixabay.com/photos/furniture-modern-luxury-indoors-3271762/
+  name: Comfy Neutral Sofa for Enduring Comfort
+  price: 399.0
+  style: sofas
+  where_visible: UI
+- id: 36ba2aec-a64e-4ac5-911d-a36cbbfa83bf
+  category: homedecor
+  current_stock: 11
+  description: Elevate your home with the Perfect Cushions - lush, indulgent cushions
+    mold to your body for unparalleled comfort and superior support. Luxurious style
+    meets unbelievable softness in these elegant yet timeless home decor accessories.
+  image: 36ba2aec-a64e-4ac5-911d-a36cbbfa83bf.jpg
+  image_license: Free for commercial use - just do not resell as a stock photo
+  link: https://pixabay.com/fr/photos/oreillers-patron-lit-int%C3%A9rieur-4326131/
+  name: Luxurious Cushions - Elevate Your Home
+  price: 179.0
+  style: cushion
+  where_visible: UI
+  promoted: true
+- id: b011ddc3-632f-47cb-a68a-ad83678ecfed
+  category: housewares
+  current_stock: 3
+  description: With its timeless curved wooden frame and ample space for coats and
+    accessories, this elegant Classic Coat Rack keeps entryways tidy in refined style.
+  image: b011ddc3-632f-47cb-a68a-ad83678ecfed.jpg
+  image_license: Free for commercial use - just do not resell as a stock photo
+  link: https://pixabay.com/photos/hat-coat-rack-wing-pet-fashion-2176837/
+  name: Stylish Wooden Coat Rack
+  price: 167.0
+  style: salon
+  where_visible: UI
+- id: f0501d3b-1bbb-44b1-905d-d11eb8a7fe01
+  category: housewares
+  current_stock: 3
+  description: Elevate your home with these minimalist spare bookshelves featuring
+    clean lines and light wood finish. Stylish, functional storage solutions to organize
+    books and display collectibles with Scandinavian-inspired design.
+  image: f0501d3b-1bbb-44b1-905d-d11eb8a7fe01.jpg
+  image_license: CC0
+  link: https://www.needpix.com/photo/download/1856333/shelf-white-living-world-bookshelf-books-bookshelves-set-up-living-room-book
+  name: Minimalist Bookshelves Elevate Any Home
+  price: 239.0
+  style: salon
+  where_visible: UI
+- id: 25d7bbf6-7dd3-4912-93a7-4186ea417b54
+  name: Lemon Dill Salmon Salad
+  category: food service
+  style: soup and salad
+  description: A nutritious and refreshing salmon salad with flaky, baked salmon,
+    crisp veggies, and a light lemon dill dressing. This flavorful salad makes an
+    excellent food service option, providing the healthy omega oils of salmon in each
+    bite.
+  price: 4.9
+  image: 25d7bbf6-7dd3-4912-93a7-4186ea417b54.png
+  image_license: CC0
+  link: https://publicdomainpictures.net/en/view-image.php?image=9039&picture=tomato-and-bacon-salad
+  current_stock: 10
+  aliases:
+  - salmon salad
+  - salad with salmon
+  - fish salad
+  where_visible: Alexa
+- id: 4496471c-b098-4915-9a1a-8b9e60043737
+  name: Leafy Mediterranean Goodness
+  category: food service
+  style: soup and salad
+  description: Crisp lettuces, vine-ripened tomatoes, cool cucumbers, and tangy feta
+    come together in our refreshing Mediterranean Veggie Salad, offering the bright,
+    garden-fresh flavors of the Mediterranean in a light and satisfying salad.
+  price: 4.1
+  image: 4496471c-b098-4915-9a1a-8b9e60043737.png
+  image_license: CC0
+  link: https://publicdomainpictures.net/en/view-image.php?image=261119&picture=salad-bowl
+  current_stock: 10
+  aliases:
+  - mediterranean Salad
+  - leafy salad
+  - salad
+  - tomato salad
+  - cucumber salad
+  where_visible: Alexa
+- id: 24c62ad2-6977-4f69-be75-e37d897c1434
+  name: Savory Tomato Basil Soup
+  category: food service
+  style: soup and salad
+  description: Enjoy a hearty and delicious Tomato Basil Soup, made with ripe, sun-ripened
+    tomatoes and savory seasonings. This versatile canned soup adds a flavorful pop
+    of nutrition to any meal, perfect for healthcare and hospitality dining.
+  price: 2.1
+  image: 24c62ad2-6977-4f69-be75-e37d897c1434.png
+  image_license: CC0
+  link: https://publicdomainpictures.net/en/view-image.php?image=318298&picture=cup-of-vegetable-soup
+  current_stock: 10
+  aliases:
+  - soup
+  - tomato soup
+  - healthy soup
+  where_visible: Alexa
+- id: 0de9bba0-1149-40e9-b1a6-7dcecaf68194
+  name: Refreshing Fruit Fusion Smoothie Splash
+  category: cold dispensed
+  style: fountain-non-carbonated
+  description: Enjoy a refreshing and satisfying fruit smoothie, blended thick and
+    creamy with a fine mix of nutritious fruits. This chilled beverage delivers robust
+    fruit flavor and a healthy energy boost in every sip.
+  price: 2.5
+  image: 0de9bba0-1149-40e9-b1a6-7dcecaf68194.png
+  image_license: CC0
+  link: https://publicdomainpictures.net/en/view-image.php?image=6567&picture=smoothie-drinks
+  current_stock: 10
+  aliases:
+  - smoothy
+  - milkshake
+  - fruit smoothy
+  - fruit and milk drink
+  where_visible: Alexa
+- id: 5afced84-ed2d-4520-a06d-dcfeab382e52
+  name: Refreshing Ginseng Iced Tea
+  category: cold dispensed
+  style: fountain-non-carbonated
+  description: Refresh and recharge with our crisp, lightly sweetened herbal iced
+    tea. Featuring a balanced blend of ginseng, black tea, and natural flavors, each
+    chilled sip awakens the senses.
+  price: 2.5
+  image: 5afced84-ed2d-4520-a06d-dcfeab382e52.jpg
+  image_license: CC0
+  link: https://publicdomainpictures.net/en/view-image.php?image=4436&picture=ice-tea
+  current_stock: 10
+  aliases:
+  - iced tea
+  - herbal iced tea
+  - cold tea
+  - healthy iced tea
+  - healthy cold tea
+  where_visible: Alexa
+- id: 0987bfa1-0a23-4b90-8882-8a6e9bd91e24
+  name: Spicy Prawn Curry
+  category: food service
+  style: seafood
+  description: Succulent prawns in a creamy, 
+    aromatic curry sauce over fluffy rice. A mouthwatering 
+    blend of tender seafood, warm spices, and rice that 
+    provides a satisfying comfort meal.
+  price: 5.5
+  image: 0987bfa1-0a23-4b90-8882-8a6e9bd91e24.png
+  image_license: CC0
+  link: https://publicdomainpictures.net/en/view-image.php?image=331888&picture=shrimp-grilled-thai-foods
+  current_stock: 10
+  aliases:
+  - curry
+  - prawns
+  - prawn curry
+  - shrimp curry
+  - shrimps
+  - prawn meal
+  - shrimp meal
+  where_visible: Alexa
+- id: 575c0ac0-5494-4c64-a886-a9c0cf8b779a
+  name: Lentil Potato Carrot Dish
+  category: food service
+  style: other cuisine
+  description:  Hearty lentil dish with protein-rich legumes, 
+    potatoes, carrots and savory spices. Satisfying vegetarian meal, 
+    nutritious and delicious.
+  price: 3.5
+  image: 575c0ac0-5494-4c64-a886-a9c0cf8b779a.jpg
+  image_license: Free for commercial use - just do not resell as a stock photo
+  link: https://pixabay.com/fr/photos/soupe-de-lentilles-lentilles-rago%C3%BBt-3738547/
+  current_stock: 10
+  aliases:
+  - lentils
+  - lentil dish
+  - lentil and potatos
+  - lentil and carrots
+  - lentil meal
+  where_visible: Alexa
+  promoted: true
+- id: 7000f6e7-41f7-4957-878a-ccc42a39ca59
+  name: Hot Chocolate - Creamy Chocolatey Warmth
+  category: hot dispensed
+  style: hot chocolate
+  description:  Indulge in creamy, chocolatey warmth with 
+    our rich hot chocolate. This sweet, velvety beverage 
+    satisfies chocolate cravings and warms you on cold days.
+  price: 1.2
+  image: 7000f6e7-41f7-4957-878a-ccc42a39ca59.png
+  image_license: CC0
+  link: https://publicdomainpictures.net/en/view-image.php?image=222425&picture=hot-cup-of-coffee
+  current_stock: 11
+  aliases:
+  - hot chocolate
+  - cocoa
+  - chocolate drink
+  - warm drink
+  where_visible: Alexa
+- id: 9c1a2048-7aac-4565-b836-d8d4f726322c
+  name: Crunchy Potato Chips
+  category: salty snacks
+  style: potato chips
+  description: This classic snack features thin slices of potato that 
+    have been fried to a beautiful golden
+    brown until deliciously crispy. 
+  price: 1.1
+  image: 9c1a2048-7aac-4565-b836-d8d4f726322c.png
+  image_license: CC0
+  link: https://publicdomainpictures.net/en/view-image.php?image=344511&picture=delicious-potato-chips-in-bowl
+  current_stock: 11
+  aliases:
+  - chips
+  - crisps
+  - potato chips
+  - potato crisps
+  where_visible: Alexa

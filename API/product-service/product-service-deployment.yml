@@ -1,0 +1,39 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: product-service-v1
+  namespace: production
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: product-service
+      version: v1
+  template:
+    metadata:
+      labels:
+        app: product-service
+        version: v1
+        istio: monitor
+    spec:
+      containers:
+        - image: 767397661460.dkr.ecr.us-east-2.amazonaws.com/springfield/product-service:latest
+          imagePullPolicy: Always
+          name: product-service
+          ports:
+            - name: http
+              containerPort: 7612
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: product-service
+  namespace: production
+spec:
+  ports:
+    - name: http
+      port: 7612
+  selector:
+    app: product-service

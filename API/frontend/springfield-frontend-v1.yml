@@ -1,0 +1,27 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend-v3
+  namespace: production
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: frontend
+      version: v3
+  template:
+    metadata:
+      labels:
+        app: frontend
+        version: v3
+        istio: monitor
+    spec:
+      containers:
+        - image: 767397661460.dkr.ecr.us-east-2.amazonaws.com/springfield/frontend:latest
+          imagePullPolicy: Always
+          name: frontend
+          ports:
+            - name: http
+              containerPort: 8080
+

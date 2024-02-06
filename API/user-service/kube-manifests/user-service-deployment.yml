@@ -1,0 +1,46 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: user-service
+  namespace: production
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: user-service
+  template:
+    metadata:
+      labels:
+        app: user-service
+        version: v1
+        istio: monitor
+    spec:
+      containers:
+        - image: 767397661460.dkr.ecr.us-east-2.amazonaws.com/springfield/user-service:latest
+          imagePullPolicy: Always
+          name: user-service
+          ports:
+            - name: http
+              containerPort: 8600
+          env:
+            - name: DB_USER
+              value: root
+            - name: db_root_password_user
+              valueFrom:
+                secretKeyRef:
+                  name: userapi-secrets
+                  key: db_root_password_user
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: user-service
+  namespace: production
+spec:
+  ports:
+  - name: http
+    port: 8600
+  selector:
+    app: user-service

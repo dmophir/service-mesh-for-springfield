@@ -1,0 +1,30 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: cicd-test
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: test-image-v1
+  namespace: cicd-test
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: test-image
+      version: v1
+  template:
+    metadata:
+      labels:
+        app: test-image
+        version: v1
+    spec:
+      containers:
+        - image: 767397661460.dkr.ecr.us-east-2.amazonaws.com/service-mesh_test-container:latest
+          imagePullPolicy: Always
+          name: test-image
+          ports:
+            - name: http
+              containerPort: 8080

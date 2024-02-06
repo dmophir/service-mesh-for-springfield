@@ -1,0 +1,13 @@
+{
+	"name": "nodeapp",
+	"version": "1.0.0",
+	"description": "sample nodeapp",
+	"main": "index.js",
+	"repository": "na",
+	"scripts": {
+	  "test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {}
+  }

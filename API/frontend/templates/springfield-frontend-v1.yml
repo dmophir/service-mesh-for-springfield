@@ -1,0 +1,27 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: second-app-v3
+  namespace: production
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: second-app
+      version: v3
+  template:
+    metadata:
+      labels:
+        app: second-app
+        version: v3
+        istio: monitor
+    spec:
+      containers:
+        - image: 767397661460.dkr.ecr.us-east-2.amazonaws.com/springfield/frontend:latest
+          imagePullPolicy: Always
+          name: second-app
+          ports:
+            - name: http
+              containerPort: 8080
+
